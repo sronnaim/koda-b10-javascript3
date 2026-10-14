@@ -1,4 +1,4 @@
-# Javascript 3 (PR)
+# Javascript 3
 
 ## Pola 1: Persegi
 
@@ -70,7 +70,7 @@ flowchart TD
     RowControl --false--> PrintResult --> End
 ```
 
-## Pola 3: Segitiga Sama Sisi
+## Pola 3: Segitiga Sama Sisi (PR)
 
 ```text
     * 
@@ -118,7 +118,7 @@ flowchart TD
     RowControl --false--> PrintResult --> End
 ```
 
-## Pola 4: Border Bersegi
+## Pola 4: Border Bersegi (PR)
 
 ```text
 * * * * *
